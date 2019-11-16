@@ -1,0 +1,25 @@
+.whychoose{
+    background: url("../images/Rectangle71.jpg");
+    background: cover;
+    border: #fff 15px solid;
+    border-top: none;
+
+
+
+    &__teatle{
+        margin-top: 200px;
+        font: 36px $aleo;
+        color: #fff;
+    }
+    
+    &__text{
+        color: #fff;
+        // margin-top: 60px;
+        font: 16px $aleo;
+    }
+
+    &__img{
+        margin-top: 120px;
+    }
+
+}

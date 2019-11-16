@@ -1,0 +1,33 @@
+.bhromaon{
+    background: #5474fd;
+    width: 100%;
+    min-height: 80px;
+    border: #fff 15px solid;
+    border-top: none;
+    border-bottom: none;
+
+
+   .menu{
+       display: flex;
+         }
+
+     .item {
+        font: 14px $aleo;
+        text-transform: uppercase;
+        margin:35px 15px;
+        text-align: center;
+        color: #fff;
+
+
+   }
+   a{
+    font:24px;
+    margin:35px 15px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+
+
+}
